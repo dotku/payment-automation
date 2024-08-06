@@ -1,4 +1,4 @@
-# payment-automation
+# Payment Automation
 
 one click subscribe/pay or unsubscribe from varied services
 
